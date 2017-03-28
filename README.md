@@ -1,26 +1,24 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Project Name:  Income Tax Calculator Application
 
+### Course Title:
+LIS 2360:  Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+(March 27, 2017)
 
-To get you started, we included a small hello world application.
+### Student Name:  
+(Valerie Ida)
 
-1) Open the hello-world.html file
+### Project Description:
+(Income Tax calculator application with javascript)
 
-2) Click on the Preview button to open a live preview pane
+### View Project:
+(https://vkida.github.io/lesson5_javascript2/)
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. (To declare, initialize, modify and display variables.)
+2. (To use the getElementById( ) method, a Document object method, to reference elements
+on a web page using its id value.)
+3. (To associate an event (onclick) with an HTML element and define an event handler, which
+is the code that will respond to that specific event on the specific element.
+)
